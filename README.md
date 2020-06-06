@@ -1,6 +1,10 @@
 # Project Name: 
 Image Proccessing
 
+# Tools:
+1. Python
+2. Keras
+
 # About:
 This is an image-processing python algorithm to detect certain flowers. 
 The categoreis to distict are Daisy, Dendelion, Sunflower, and Tulip.
