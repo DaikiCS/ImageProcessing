@@ -4,6 +4,7 @@ Image Proccessing
 # Tools:
 1. Python
 2. Keras
+3. VS Code
 
 # About:
 This is an image-processing python algorithm to detect certain flowers. 
